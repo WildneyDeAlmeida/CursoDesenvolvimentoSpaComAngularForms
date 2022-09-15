@@ -13,3 +13,7 @@
   height: 50px;
   text-align: center;
 } 
+
+input, select, testarea {
+  max-width: 400px;
+}
